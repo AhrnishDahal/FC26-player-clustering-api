@@ -37,8 +37,8 @@ Box-to-Box Midfielder: Highly balanced all-rounders.
 
 ### 🚀 Quick Start1. Installation 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/football-player-clustering-api.git
-cd football-player-clustering-api
+git clone https://github.com/AhrnishDahal/FC26-player-clustering-api.git
+cd FC26-player-clustering-api
 
 1. Run explore_data.py for basic overview of complete csv data
 2. Run the Pipeline
